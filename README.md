@@ -12,4 +12,4 @@ To set up this script:
 ## Note
 When this script runs, it will first pause for roughly 45 seconds to allow the system to fully boot and let network manager connect to a network. Only then will the program find the machine's IP address and push it to your account. Additionally, if the program fails to retrieve an IP, it will wait 5 seconds, then try again. This process will repeat indefinitely. 
 
-
+Have fun!
